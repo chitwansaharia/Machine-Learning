@@ -20,3 +20,7 @@ Implementing self learning Neural Network using the same example of 20\*20 pixel
 ## Bias-Variance Analysis on Regression Problems
 
 Implementing Regularized Linear Regression to predict the amount of water ﬂowing out of a dam using the change of water level in a reservoir and diagnostics of debugging learning algorithms and examining the eﬀects of bias v.s. variance. 
+
+## Spam Classifier using Support Vector Machines
+
+Implemented Email Spam Classifier using Support Vector Machines with linear as well as gaussian kernels.
